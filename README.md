@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandytelex
+- 👋 Hi, I’m @sandimaoelana
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on Data Analisys with Python 
